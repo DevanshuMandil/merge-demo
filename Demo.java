@@ -5,7 +5,7 @@ class Demo{
 		while(i<5){
 			System.out.println("Working....");
 		}
-		System.out.println("Creating a conflict part 1...");
-		System.out.println("Master Branch..");
+		System.out.println("Creating conflicts part - 2....");
+		System.out.println("Test branch code...")
 	}
 } 
